@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a Javascript/TypeScript developer.
+I am a Web Developer.
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
